@@ -8,8 +8,6 @@
 
 <table>
     <tr>
-        <td height="140px" align="center"> <a href="https://github.com/banhera">
-            <img src="https://avatars.githubusercontent.com/banhera" width="140px" /> <br> 김은정</a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/HE-SW">
             <img src="https://avatars.githubusercontent.com/HE-SW" width="140px" /> <br>김한얼</a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/eazae">
@@ -26,7 +24,6 @@
             <img src="https://avatars.githubusercontent.com/seungyeonchoo" width="140px" /> <br> 추승연 </a> <br></td>
     </tr>
     <tr>
-        <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
