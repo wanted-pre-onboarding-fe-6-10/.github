@@ -28,7 +28,7 @@
     <tr>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center">(내용입력)</td>
+        <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
