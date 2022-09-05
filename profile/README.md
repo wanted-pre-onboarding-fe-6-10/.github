@@ -26,7 +26,7 @@
     <tr>
         <td align="center"></td>
         <td align="center"></td>
-        <td align="center"></td>
+        <td align="center">팀장</td>
         <td align="center"></td>
         <td align="center"></td>
         <td align="center"></td>
