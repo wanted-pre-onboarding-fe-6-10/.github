@@ -1,6 +1,7 @@
 # Wanted Pre-Onboarding 프론트엔드 6차
 
-> Wanted Pre-Onboarding 프론트엔드 6차 10팀의 Git organization입니다
+> Wanted Pre-Onboarding 프론트엔드 6차 10팀 TenKeyLess의 Git organization입니다
+TenKeyLess는 10팀 없이는 안된다는 의미를 지닌 팀네임 입니다.
 
 <br>
 
